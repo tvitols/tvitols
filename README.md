@@ -1,6 +1,15 @@
-## Hi there 👋
+## Hey, I'm Tov 
+
+Currently studying Computer Science and Linguistics. 
+
+I maintain websites for a few local organizations and occasionally do some Android app development. 
+
+I focus mainly on backend development but have experience with fullstack, app dev, and Arduino development as well.
+
 
 <!--
+[Feel free to email me if you are interested in collaborating on a project](mailto:tovahn.vitols@gmail.com?subject=Github)
+
 **tvitols/tvitols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
