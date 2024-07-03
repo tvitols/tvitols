@@ -7,6 +7,8 @@ I maintain websites for a few local organizations and occasionally do some Andro
 I focus mainly on backend development but have experience with fullstack, app dev, and Arduino development as well.
 
 
+[Check out my website for more info or to get in touch!](https://tvitols.github.io)
+
 <!--
 [Feel free to email me if you are interested in collaborating on a project](mailto:tovahn.vitols@gmail.com?subject=Github)
 
